@@ -1,0 +1,28 @@
+C:\Users\SENA\source\repos\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\source\repos\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ejercicio 1.AssemblyInfo.cs
+C:\Users\SENA\source\repos\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\ejercicio 1\ejercicio 1\bin\Debug\net8.0\ejercicio 1.exe
+C:\Users\SENA\source\repos\ejercicio 1\ejercicio 1\bin\Debug\net8.0\ejercicio 1.deps.json
+C:\Users\SENA\source\repos\ejercicio 1\ejercicio 1\bin\Debug\net8.0\ejercicio 1.runtimeconfig.json
+C:\Users\SENA\source\repos\ejercicio 1\ejercicio 1\bin\Debug\net8.0\ejercicio 1.dll
+C:\Users\SENA\source\repos\ejercicio 1\ejercicio 1\bin\Debug\net8.0\ejercicio 1.pdb
+C:\Users\SENA\source\repos\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ejercicio 1.dll
+C:\Users\SENA\source\repos\ejercicio 1\ejercicio 1\obj\Debug\net8.0\refint\ejercicio 1.dll
+C:\Users\SENA\source\repos\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ejercicio 1.pdb
+C:\Users\SENA\source\repos\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ejercicio 1.genruntimeconfig.cache
+C:\Users\SENA\source\repos\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ref\ejercicio 1.dll
+C:\Users\SENA\Documents\evalucion que se volvio taller willian\ejercicio 1\ejercicio 1\bin\Debug\net8.0\ejercicio 1.exe
+C:\Users\SENA\Documents\evalucion que se volvio taller willian\ejercicio 1\ejercicio 1\bin\Debug\net8.0\ejercicio 1.deps.json
+C:\Users\SENA\Documents\evalucion que se volvio taller willian\ejercicio 1\ejercicio 1\bin\Debug\net8.0\ejercicio 1.runtimeconfig.json
+C:\Users\SENA\Documents\evalucion que se volvio taller willian\ejercicio 1\ejercicio 1\bin\Debug\net8.0\ejercicio 1.dll
+C:\Users\SENA\Documents\evalucion que se volvio taller willian\ejercicio 1\ejercicio 1\bin\Debug\net8.0\ejercicio 1.pdb
+C:\Users\SENA\Documents\evalucion que se volvio taller willian\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\evalucion que se volvio taller willian\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\evalucion que se volvio taller willian\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ejercicio 1.AssemblyInfo.cs
+C:\Users\SENA\Documents\evalucion que se volvio taller willian\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\evalucion que se volvio taller willian\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ejercicio 1.dll
+C:\Users\SENA\Documents\evalucion que se volvio taller willian\ejercicio 1\ejercicio 1\obj\Debug\net8.0\refint\ejercicio 1.dll
+C:\Users\SENA\Documents\evalucion que se volvio taller willian\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ejercicio 1.pdb
+C:\Users\SENA\Documents\evalucion que se volvio taller willian\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ejercicio 1.genruntimeconfig.cache
+C:\Users\SENA\Documents\evalucion que se volvio taller willian\ejercicio 1\ejercicio 1\obj\Debug\net8.0\ref\ejercicio 1.dll
